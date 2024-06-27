@@ -1,12 +1,12 @@
 <h2 align="center">✏️ SPECTO(스펙토) - 1:1 스펙 매니징 어플리케이션</h2>
-<p align="center"><img width="400" alt="logo" src="https://github.com/ajou-specto/specto_client/assets/86469788/c7b19cb7-c7be-4e19-a9bd-86c98922c288"></p>
+<p align="center"><img width="350" alt="logo" src="https://github.com/ajou-specto/specto_client/assets/86469788/c7b19cb7-c7be-4e19-a9bd-86c98922c288"></p>
 
 <p align="center">
-  <img width="170" alt="" src="https://github.com/ajou-specto/specto_client/assets/86469788/b5890792-49b8-440a-9377-eb2eac8b46a1">
-  <img width="170" alt="" src="https://github.com/ajou-specto/specto_client/assets/86469788/c8625498-2bcb-4dbe-9487-21cf0f81ef95">
-  <img width="170" alt="" src="https://github.com/ajou-specto/specto_client/assets/86469788/c824e3e6-b144-4c99-bfe1-e5dd375fd37b">
-  <img width="170" alt="" src="https://github.com/ajou-specto/specto_client/assets/86469788/3e8d8c03-1034-4576-b4b6-f653f6759743">
-  <img width="170" alt="" src="https://github.com/ajou-specto/specto_client/assets/86469788/eb2e6178-f273-41f2-9acb-9f4a48dd7e57">
+  <img width="160" alt="" src="https://github.com/ajou-specto/specto_client/assets/86469788/b5890792-49b8-440a-9377-eb2eac8b46a1">
+  <img width="160" alt="" src="https://github.com/ajou-specto/specto_client/assets/86469788/c8625498-2bcb-4dbe-9487-21cf0f81ef95">
+  <img width="160" alt="" src="https://github.com/ajou-specto/specto_client/assets/86469788/c824e3e6-b144-4c99-bfe1-e5dd375fd37b">
+  <img width="160" alt="" src="https://github.com/ajou-specto/specto_client/assets/86469788/3e8d8c03-1034-4576-b4b6-f653f6759743">
+  <img width="160" alt="" src="https://github.com/ajou-specto/specto_client/assets/86469788/eb2e6178-f273-41f2-9acb-9f4a48dd7e57">
 </p>
 
 ## :fire: Link
